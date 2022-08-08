@@ -1,0 +1,189 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+
+.header {
+    text-align: center;
+    background-color: blue;
+    color: antiquewhite;
+}
+
+
+.c1 {
+    width: 100%;
+    height: 400px;
+    background-image: url("https://www.karunya.edu/img/general/aerial-view.jpg.pagespeed.ce.4_-R-b0nuM.jpg");
+    background-size: cover;
+}
+.c2 {
+    width: 100%;
+    background-color: pink;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.c2 .content{
+    text-align: justify;
+}
+
+.c2 .title{
+    text-align: center;
+}
+
+.box1{
+    width: 34%;
+    height: 300px;
+    background-image: url("https://www.cycleworld.com/resizer/brjGCgTozMLT2ERpnb4mVyXu59o=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/QPUGATTSMJH53ODJSJEY63TYQE.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+
+.box2{
+    width: 34%;
+    height: 300px;
+    background-image: url("https://luxebook.in/wp-content/uploads/2022/04/P90442130_highRes_rolls-royce-announce-e1650982444506-1021x563.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+
+.box3{
+    width: 32%;
+    height: 300px;
+    background-image: url("https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2021/09/14073840/ms-dhoni-1625654692.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+
+.box1 .Bike{
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: 0.5;
+}
+.box1 .Bike:hover{
+    opacity: 1;    
+}
+
+.box2 .RollsRoyce{
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: 0.5;
+}
+.box2 .RollsRoyce:hover{
+    opacity: 1;    
+}
+
+.box3 .Dhoni{
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: 0.5;
+}
+.box3 .Dhoni:hover{
+    opacity: 1;    
+}
+
+.c3 {
+    width: 50%;
+    height: 300px;
+    background-color: rosybrown;
+    padding: 5%;
+    box-sizing: border-box;
+    float: left;
+}
+.c3 .content{
+    text-align: justify;
+}
+
+.c3 .title{
+    text-align: center;
+}
+
+.c4 {
+    width: 50%;
+    height: 300px;
+    background-image: url("https://www.myactivesg.com/-/media/SSC/Consumer/Images/Sports/Fencing/Fencing-Stance_46839199.ashx?la=en&hash=37251C18C53621C8BEF9F6B3B10F18F964482EDA");
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+
+.c5{
+    width: 50%;
+    padding-left: 9%;
+    padding-top: 15px;
+    box-sizing: border-box;
+    height: 300px;
+    background-image: url("https://image.shutterstock.com/image-photo/nature-picture-very-beautiful-scene-260nw-1930964750.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.c5 form{
+    width: 500px;
+    height: 250px;
+    background-color: white;
+}
+
+.c5 form h3{
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 20px;
+
+}
+
+.c5 form input{
+    width: 95%;
+    margin-left: 8px;
+    margin-top: 8px;
+    height: 35px;
+    background-color: rgb(202, 201, 201);
+    border: none;
+    border-radius: 7px;
+}
+
+.c5 form input:focus{
+    outline: 2px solid rgb(8, 143, 187);
+    background: none;
+
+}
+
+.c5 form input::placeholder{
+    opacity: .4;
+    color: black;
+    padding: 5px;
+}
+
+.c5 form label{
+    padding-left:10px ;
+}
+
+.c5 button{
+    border: none;
+    margin-top: 25px;
+    border-radius: 7px;
+    width: 95%;
+    height: 35px;
+    background-color: rgb(8, 143, 187);
+    margin-left: 8px;
+}
+
+.c6 {
+    width: 50%;
+    height: 300px;
+    background-color: rosybrown;
+    padding: 5%;
+    box-sizing: border-box;
+    float: left;
+}
+.c6 .content{
+    text-align: justify;
+}
+
+.c6 .title{
+    text-align: center;
+}
